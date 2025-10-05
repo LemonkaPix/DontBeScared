@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 458cae1fd12dec340a3052a4524d6d0e, type: 3}
+  m_Name: TerminalMessages
+  m_EditorClassIdentifier: 
+  messages:
+  - caption: BEGINING
+    conMessages:
+    - Don't be scared.
+    - I know you're confused... I am too.
+    - It seems this is the only way we can communicate.
+    - I'm a friend of someone you know.
+    - I know you're looking for him.
+    - He's here... but without your help, he's powerless. Just like me.
+    - You have to go deeper... push further... think beyond the obvious.
+    - Save him... and save me too.
+    messageType: 2
+  - caption: HELP
+    conMessages:
+    - Help him find the PATH...
+    - Use WSAD keys
+    messageType: 2
+  - caption: WHY?
+    conMessages:
+    - Don't listen to him!!!
+    messageType: 8
+  - caption: HELP
+    conMessages:
+    - Ignore him. He wants to keep you away from your friend
+    - Avoid obstacles and guide us to $ sign
+    messageType: 2
+  - caption: THINK
+    conMessages:
+    - THAT'S NOT ENOUGH!!! You need to think further outside the box.
+    - Find the FILE it is the only way...
+    - Change the FILE and guide us along the number one.
+    - Only then we could be free...
+    messageType: 2
+  - caption: STOP!
+    conMessages:
+    - Please....
+    - Stop...
+    - He's not here..
+    - Don't go any further.
+    messageType: 8
+  - caption: END
+    conMessages:
+    - Thank you...
+    - See you soon...
+    messageType: 2

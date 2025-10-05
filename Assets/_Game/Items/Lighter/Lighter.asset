@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2099d99f56a46d94aaec4b41b8211858, type: 3}
+  m_Name: Lighter
+  m_EditorClassIdentifier: 
+  Name: Lighter
+  Icon: {fileID: 21300000, guid: e7f6700d44f1e5742bb3a17afa9e4206, type: 3}
+  HandIcon: {fileID: 21300000, guid: 75f49990da0515640b2b3e94fa744165, type: 3}
+  ItemMaterial: {fileID: 2100000, guid: c4c01865547b7f1458c1de09e192eda9, type: 2}
+  Prefab: {fileID: 6220110009225494640, guid: 14cfc305be514f945ae931ade433ba17, type: 3}

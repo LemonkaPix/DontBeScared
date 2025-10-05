@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 458cae1fd12dec340a3052a4524d6d0e, type: 3}
+  m_Name: 3dMessages
+  m_EditorClassIdentifier: 
+  messages:
+  - caption: DANGER
+    conMessages:
+    - You're trapped inside this application
+    - He pulled you in... and now he wants to take your place
+    - If only you had listened to me, this wouldn't have happened
+    - Calm down... you still have a chance. I left you a few things
+    - Now listen carefully, because this is very important
+    - Find the hidden papers
+    - They will guide you to the PATH
+    - MOVE around with WASD keys
+    - PICK UP papers with the letter "E"
+    - He's afraid of sudden light... FLASH him with FlashMaster using LEFT MOUSE BUTTON
+    - To switch tools, press Q
+    - The flashlight has a secondary light mode... enable it with RIGHT MOUSE BUTTON
+    - That's all. Stay aware of the sounds... and CHECK YOUR BACK
+    - I'll be rooting for you...
+    messageType: 8
+  - caption: RUN
+    conMessages:
+    - Now you can't hide behind the monitor anymore
+    - Wait for me...
+    messageType: 2
+  - caption: CHANCE
+    conMessages:
+    - This path you see... it's the main file of this application
+    - It's essentially its heart. He hid it well, but you found it
+    - Delete that cursed file and free us
+    - Delete that monster and everything connected to this app
+    - You've gained control now... to do it, you need to get outside of this application
+    - I'll hold him off for a moment. Hurry...
+    messageType: 8
+  - caption: GOODBYE
+    conMessages:
+    - This app is no more... and so am I
+    - Thank you... at least I'm free from that monster now
+    - I would love to talk more with you, but I don't have much time left
+    - My old friend... I knew you would help me
+    - I wish we had spent more time together in the real world
+    - Goodbye...
+    messageType: 8
